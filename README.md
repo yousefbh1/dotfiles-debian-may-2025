@@ -1,0 +1,11 @@
+## My dotfiles for:
+bspwm
+sxhkd
+tmux
+polybar
+dunst
+ncspot
+firefox
+neovim dotfiles stored in kickstart.nvim fork
+zathura
+picom
